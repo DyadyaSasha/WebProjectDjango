@@ -1,0 +1,87 @@
+[2016-11-25 04:04:10 +0000] [7791] [INFO] Starting gunicorn 19.4.5
+[2016-11-25 04:04:10 +0000] [7791] [INFO] Listening at: http://0.0.0.0:8080 (7791)
+[2016-11-25 04:04:10 +0000] [7791] [INFO] Using worker: sync
+[2016-11-25 04:04:10 +0000] [7796] [INFO] Booting worker with pid: 7796
+[2016-11-25 04:04:10 +0000] [7797] [INFO] Booting worker with pid: 7797
+[2016-11-25 04:04:10 +0000] [7798] [INFO] Booting worker with pid: 7798
+[2016-11-25 04:08:27 +0000] [7798] [INFO] Worker exiting (pid: 7798)
+[2016-11-25 04:08:27 +0000] [7796] [INFO] Worker exiting (pid: 7796)
+[2016-11-25 04:08:27 +0000] [7797] [INFO] Worker exiting (pid: 7797)
+[2016-11-25 04:08:27 +0000] [7791] [INFO] Handling signal: term
+[2016-11-25 04:08:27 +0000] [7791] [INFO] Shutting down: Master
+[2016-11-25 04:10:47 +0000] [8293] [INFO] Starting gunicorn 19.4.5
+[2016-11-25 04:10:47 +0000] [8293] [INFO] Listening at: http://0.0.0.0:8080 (8293)
+[2016-11-25 04:10:47 +0000] [8293] [INFO] Using worker: sync
+[2016-11-25 04:10:47 +0000] [8300] [INFO] Booting worker with pid: 8300
+[2016-11-25 04:10:47 +0000] [8301] [INFO] Booting worker with pid: 8301
+[2016-11-25 04:10:47 +0000] [8302] [INFO] Booting worker with pid: 8302
+[2016-11-25 04:18:21 +0000] [8293] [INFO] Handling signal: term
+[2016-11-25 04:18:21 +0000] [8300] [INFO] Worker exiting (pid: 8300)
+[2016-11-25 04:18:21 +0000] [8301] [INFO] Worker exiting (pid: 8301)
+[2016-11-25 04:18:21 +0000] [8302] [INFO] Worker exiting (pid: 8302)
+[2016-11-25 04:18:21 +0000] [8293] [INFO] Shutting down: Master
+[2016-11-25 04:18:28 +0000] [8632] [INFO] Starting gunicorn 19.4.5
+[2016-11-25 04:18:28 +0000] [8632] [INFO] Listening at: http://0.0.0.0:8080 (8632)
+[2016-11-25 04:18:28 +0000] [8632] [INFO] Using worker: sync
+[2016-11-25 04:18:28 +0000] [8637] [INFO] Booting worker with pid: 8637
+[2016-11-25 04:18:28 +0000] [8638] [INFO] Booting worker with pid: 8638
+[2016-11-25 04:18:28 +0000] [8639] [INFO] Booting worker with pid: 8639
+[2016-11-25 04:22:04 +0000] [8638] [INFO] Worker exiting (pid: 8638)
+[2016-11-25 04:22:04 +0000] [8637] [INFO] Worker exiting (pid: 8637)
+[2016-11-25 04:22:04 +0000] [8639] [INFO] Worker exiting (pid: 8639)
+[2016-11-25 04:22:04 +0000] [8632] [INFO] Handling signal: term
+[2016-11-25 04:22:04 +0000] [8632] [INFO] Shutting down: Master
+[2016-11-25 04:23:38 +0000] [8807] [INFO] Starting gunicorn 19.4.5
+[2016-11-25 04:23:38 +0000] [8807] [INFO] Listening at: http://0.0.0.0:8080 (8807)
+[2016-11-25 04:23:38 +0000] [8807] [INFO] Using worker: sync
+[2016-11-25 04:23:38 +0000] [8812] [INFO] Booting worker with pid: 8812
+[2016-11-25 04:23:38 +0000] [8813] [INFO] Booting worker with pid: 8813
+[2016-11-25 04:23:38 +0000] [8814] [INFO] Booting worker with pid: 8814
+[2016-11-25 04:25:46 +0000] [8812] [INFO] Worker exiting (pid: 8812)
+[2016-11-25 04:25:46 +0000] [8813] [INFO] Worker exiting (pid: 8813)
+[2016-11-25 04:25:46 +0000] [8814] [INFO] Worker exiting (pid: 8814)
+[2016-11-25 04:25:46 +0000] [8807] [INFO] Handling signal: term
+[2016-11-25 04:25:46 +0000] [8807] [INFO] Shutting down: Master
+[2016-11-25 04:26:47 +0000] [8985] [INFO] Starting gunicorn 19.4.5
+[2016-11-25 04:26:47 +0000] [8985] [INFO] Listening at: http://0.0.0.0:8080 (8985)
+[2016-11-25 04:26:47 +0000] [8985] [INFO] Using worker: sync
+[2016-11-25 04:26:47 +0000] [8990] [INFO] Booting worker with pid: 8990
+[2016-11-25 04:26:47 +0000] [8991] [INFO] Booting worker with pid: 8991
+[2016-11-25 04:26:47 +0000] [8992] [INFO] Booting worker with pid: 8992
+[2016-11-25 04:28:41 +0000] [8990] [INFO] Worker exiting (pid: 8990)
+[2016-11-25 04:28:41 +0000] [8991] [INFO] Worker exiting (pid: 8991)
+[2016-11-25 04:28:41 +0000] [8992] [INFO] Worker exiting (pid: 8992)
+[2016-11-25 04:28:41 +0000] [8985] [INFO] Handling signal: term
+[2016-11-25 04:28:41 +0000] [8985] [INFO] Shutting down: Master
+[2016-11-25 04:31:50 +0000] [9265] [INFO] Starting gunicorn 19.4.5
+[2016-11-25 04:31:50 +0000] [9265] [INFO] Listening at: http://0.0.0.0:8080 (9265)
+[2016-11-25 04:31:50 +0000] [9265] [INFO] Using worker: sync
+[2016-11-25 04:31:50 +0000] [9270] [INFO] Booting worker with pid: 9270
+[2016-11-25 04:31:50 +0000] [9271] [INFO] Booting worker with pid: 9271
+[2016-11-25 04:31:50 +0000] [9272] [INFO] Booting worker with pid: 9272
+[2016-11-25 04:34:24 +0000] [9270] [INFO] Worker exiting (pid: 9270)
+[2016-11-25 04:34:24 +0000] [9265] [INFO] Handling signal: term
+[2016-11-25 04:34:24 +0000] [9272] [INFO] Worker exiting (pid: 9272)
+[2016-11-25 04:34:24 +0000] [9271] [INFO] Worker exiting (pid: 9271)
+[2016-11-25 04:34:24 +0000] [9265] [INFO] Shutting down: Master
+[2016-11-25 04:34:28 +0000] [9441] [INFO] Starting gunicorn 19.4.5
+[2016-11-25 04:34:28 +0000] [9441] [INFO] Listening at: http://0.0.0.0:8080 (9441)
+[2016-11-25 04:34:28 +0000] [9441] [INFO] Using worker: sync
+[2016-11-25 04:34:28 +0000] [9446] [INFO] Booting worker with pid: 9446
+[2016-11-25 04:34:28 +0000] [9447] [INFO] Booting worker with pid: 9447
+[2016-11-25 04:34:28 +0000] [9448] [INFO] Booting worker with pid: 9448
+[2016-11-25 04:35:52 +0000] [9577] [INFO] Starting gunicorn 19.4.5
+[2016-11-25 04:39:51 +0000] [9765] [INFO] Booting worker with pid: 9765
+[2016-11-25 04:39:51 +0000] [9441] [INFO] Handling signal: hup
+[2016-11-25 04:39:51 +0000] [9441] [INFO] Hang up: Master
+[2016-11-25 04:39:51 +0000] [9767] [INFO] Booting worker with pid: 9767
+[2016-11-25 04:39:51 +0000] [9803] [INFO] Booting worker with pid: 9803
+[2016-11-25 04:39:51 +0000] [9765] [INFO] Worker exiting (pid: 9765)
+[2016-11-25 04:39:51 +0000] [9804] [INFO] Booting worker with pid: 9804
+[2016-11-25 04:39:51 +0000] [9805] [INFO] Booting worker with pid: 9805
+[2016-11-25 04:39:51 +0000] [9767] [INFO] Worker exiting (pid: 9767)
+[2016-11-25 04:39:51 +0000] [9441] [INFO] Handling signal: term
+[2016-11-25 04:39:51 +0000] [9803] [INFO] Worker exiting (pid: 9803)
+[2016-11-25 04:39:51 +0000] [9804] [INFO] Worker exiting (pid: 9804)
+[2016-11-25 04:39:51 +0000] [9805] [INFO] Worker exiting (pid: 9805)
+[2016-11-25 04:39:51 +0000] [9441] [INFO] Shutting down: Master
