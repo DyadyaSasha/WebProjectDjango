@@ -1,0 +1,9 @@
+bind = '0.0.0.0:8000'
+command = '/env/bin/gunicorn'
+pythonpath= '/env/bin/'
+workers = 3
+user = 'user'
+accesslog='gunicorn_django_access.log'
+errorlog='gunicorn_django_error.log'
+pidfile='gunicorn_django_pid'
+# daemon = True
